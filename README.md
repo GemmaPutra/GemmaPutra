@@ -1,3 +1,4 @@
+I am a College Student from Indonesia
 - 👋 Hi, I’m @GemmaPutra
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Python and C#
