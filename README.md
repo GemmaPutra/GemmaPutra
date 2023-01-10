@@ -1,7 +1,13 @@
-I'm Gemma Putra
+Name : Gemma Putra Nugraha
+Umur : 20
 
-I'm a College Student from Indonesia
-and i'm currently learning Python, C# and C++
+Tinggal di *Bengkulu Utara*
+Kuliah di *Universitas Muhammadiyah Bengkulu*
+
+Bahasa Pemrograman yang di pakai :
+- Python
+- C#
+- C++
 
 <!---
 GemmaPutra/GemmaPutra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
